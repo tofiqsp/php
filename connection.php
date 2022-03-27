@@ -1,7 +1,7 @@
 <?php
 $db_host="localhost";
-$db_user="root";
-$db_password="";
+$db_user="test";
+$db_password="test";
 $db_name="tofiq";
 
 try {
