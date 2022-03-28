@@ -40,7 +40,7 @@
 				
 				require_once 'connection.php';
 				
-				// session_start();
+				session_start();
 
 				if(!isset($_SESSION['user_login']))	//check unauthorize user not access in "welcome.php" page
 				{
